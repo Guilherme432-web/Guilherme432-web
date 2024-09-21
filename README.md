@@ -1,16 +1,14 @@
-## Hi there 👋
+## Guilherme de Lira Costa Tavares
 
-<!--
-**Guilherme432-web/Guilherme432-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante do segundo periodo da faculdade  de ciências da computação, atualmente estou procurando expandir meus conhecimentos nas linguagens de programação.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente sem projetos feitos.
+
+## Perfis
+https://www.linkedin.com/in/guilherme-lira-506777325/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bhg8mXX9YQ1CA4WjYS2itqw%3D%3D
+
+## Obrigado por ver
+
+
